@@ -158,51 +158,6 @@
         "mileage": "7.25 kmpl",
         "approx.Cost": "3.22 CrRs",
         "website":"https://www.carwale.com/lamborghini-cars/huracan-evo/"
-   },
-    {
-       "id":16,
-        "companyName": "Lamborghini",
-        "category": "Car",
-        "modelName":"Lamborghini Urus",
-        "mileage": "7.87 kmpl",
-        "approx.Cost": "3.15 CrRs",
-        "website":"https://www.cardekho.com/lamborghini/urus"
-   },
-    {
-       "id":17,
-        "companyName": "Lamborghini",
-        "category": "Car",
-        "modelName":"Lamborghini Huracan Tecnica",
-        "mileage": "7.1 kmpl",
-        "approx.Cost": "4.04 CrRs",
-        "website":"https://www.carwale.com/lamborghini-cars/huracan-tecnica/"
-   },
-    {
-       "id":18,
-        "companyName": "Lamborghini",
-        "category": "Car",
-        "modelName":"Lamborghini Urus Performante",
-        "mileage": "7.35 kmpl",
-        "approx.Cost": "3.05 CrRs",
-        "website":"https://www.carwale.com/lamborghini-cars/urus-performante/"
-   },
-    {
-       "id":19,
-        "companyName": "Chevrolet",
-        "category": "Car",
-        "modelName":"Chevrolet Aveo",
-        "mileage": "15.4 kmpl",
-        "approx.Cost": "5.99 Lakh",
-        "website":"https://www.cardekho.com/carmodels/Chevrolet/Chevrolet_Aveo"
-   },
-    {
-       "id":20,
-        "companyName": "Hyundai",
-        "category": "Car",
-        "modelName":"Hyundai Venue",
-        "mileage": "16 kmpl",
-        "approx.Cost": "7.53 Lakh",
-        "website":"https://www.cardekho.com/hyundai/venue/specs"
    }
 
 ]
