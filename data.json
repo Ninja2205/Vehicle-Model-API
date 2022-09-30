@@ -121,7 +121,7 @@
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-    }
+    },
     {
         "id":12,
         "companyName": "maruti suzuki",
@@ -130,7 +130,7 @@
         "mileage": "9-11kmpl",
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
-    }
+    },
     
    {
        "id":13,
@@ -140,7 +140,24 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
+   },
+    {
+       "id":14,
+        "companyName": "Lamborghini",
+        "category": "Car",
+        "modelName":"Lamborghini Aventador",
+        "mileage": "7.69 kmpl",
+        "approx.Cost": "6.25 CrRs",
+        "website":"https://www.cardekho.com/carmodels/Lamborghini/Lamborghini_Aventador"
+   },
+    {
+       "id":15,
+        "companyName": "Lamborghini",
+        "category": "Car",
+        "modelName":"Lamborghini Huracan Evo",
+        "mileage": "7.25 kmpl",
+        "approx.Cost": "3.22 CrRs",
+        "website":"https://www.carwale.com/lamborghini-cars/huracan-evo/"
    }
-    
 
 ]
